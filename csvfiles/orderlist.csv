@@ -1,0 +1,5 @@
+Customer name,Adress,Phone number,Courier,Status,Items
+Dami,Paris,09920,1,Preparing,"1,4,6"
+Giovanni,Italy,5378,2,Preparing,"3,5"
+Heller,Spain,2746,3,Delivered,"1,3,7"
+David,America,400303,4,Cancelled,"1,2,4"
